@@ -1,7 +1,7 @@
 # Fake-News-Detection
 
 This is a final, group project for Machine Learning course. 
-We used KNN, boosted ensembles and SVMs to classify articles based on their estimated truthfullness.
+We used Naive Bayes, boosted ensembles and SVMs to classify articles based on their estimated truthfullness.
 Data was collected by ourselves from numerous websites.
 
 Classifers were also run on dataset from Kaggle (https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset). 
